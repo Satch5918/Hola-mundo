@@ -1,1 +1,3 @@
-alert("hola usuario");
+const nombredeusuario = prompt("introduzca su nombre");
+let saludo = "Hola!! ";
+alert(saludo + nombredeusuario);
